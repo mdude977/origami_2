@@ -1,0 +1,21 @@
+h1{
+    color: rgb(4, 0, 255);
+    background-color: rgb(255, 187, 0);
+    text-align : center;
+    
+}
+.bodyimg{
+    background-color: rgb(255, 187, 0);
+    text-align : center;
+}
+.origami{
+    background-color: rgb(1, 4, 156);
+    margin-top: 15mm;
+}
+.text{
+    background-color: rgb(1, 4, 156);
+    color: darkorange;
+}
+.grid{
+    background-color: springgreen;
+}
